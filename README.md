@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me 
+
+Hello! My name is Maxim! I'm ML engineer.
 
 <!--
 **Maks0Nji/Maks0Nji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
